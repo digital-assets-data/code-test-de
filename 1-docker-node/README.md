@@ -4,7 +4,7 @@ The Dockerfile in this directory will build and run a [Parity](https://www.parit
 
 You can find the docs for interacting with Parity [here](https://wiki.parity.io/JSONRPC-eth-module).
 
-Alternatively, we have a hosted node that you may use. IP: 0.0.0.0, port is the same as in the Dockerfile.
+Alternatively, we have a hosted node that you may use. IP: 107.22.132.192, port is the same as in the Dockerfile.
 
 Bonus: Run a different type of node (not Parity based) to pull data from.
 
